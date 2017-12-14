@@ -70,7 +70,7 @@
                                     <ul class="nav navbar-nav navbar-right">
                                         <li><a href="#home">首页</a></li>
                                         <li><a href="#history">关于我们</a></li>
-                                        <li><a href="#portfolio">组合</a></li>
+                                        <li><a href="#portfolio">作品</a></li>
                                         <li><a href="#pricing">价格</a></li>
                                         <li><a href="#team">团队</a></li>
                                         <li><a href="#contact">联系</a></li>
