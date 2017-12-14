@@ -1,13 +1,13 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!doctype html>
-<html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="杏花雨的个人主页">
+<html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="程序员小志的个人网站">
 <html class="no-js lt-ie9 lt-ie8" lang="专业IT开发商">
 <html class="no-js lt-ie9" lang="专业的团队">
 <html class="no-js" lang="专业的技术">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>杏花雨</title>
+    <title>程序员小志的个人网站</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -101,7 +101,7 @@
                                 <div class="single_home_slider">
                                     <div class="main_home wow fadeInUp" data-wow-duration="700ms">
                                         <h3>客户是至高无上的</h3>
-                                        <h1>欢迎来到杏花雨的主页</h1>
+                                        <h1>欢迎来到小志的主页</h1>
                                         <div class="separator"></div>
                                         <p>专业的团队，专业的开发技术，专业的IT服务商</p>
                                         <div class="home_btn">
@@ -114,20 +114,19 @@
                                 <div class="single_home_slider">
                                     <div class="main_home wow fadeInUp" data-wow-duration="700ms">
                                         <h3>客户是至高无上的</h3>
-                                        <h1>欢迎来到杏花雨的主页</h1>
+                                        <h1>欢迎来到小志的主页</h1>
                                         <div class="separator"></div>
                                         <p>专业的团队，专业的开发技术，专业的IT服务商</p>
                                         <div class="home_btn">
                                             <a href="javascript:void(0);" class="btn btn-lg m_t_10">现在就开始</a>
                                             <a href="javascript:void(0);" class="btn btn-default">了解更多</a>
                                         </div>
-
                                     </div>
                                 </div>
                                 <div class="single_home_slider">
                                     <div class="main_home wow fadeInUp" data-wow-duration="700ms">
                                         <h3>客户是至高无上的</h3>
-                                        <h1>欢迎来到杏花雨的主页</h1>
+                                        <h1>欢迎来到小志的主页</h1>
                                         <div class="separator"></div>
                                         <p>专业的团队，专业的开发技术，专业的IT服务商</p>
                                         <div class="home_btn">
@@ -163,7 +162,7 @@
 
                             <h4>计算机软件开发</h4>
                             <div class="separator3"></div>
-                            <p>使用Java开发，基于SSH或SSM框架，可集成微信公众号，短信接口，邮件接口，安全认证，流程引擎等</p>
+                            <p><font size="3">使用Java开发，基于SSH或SSM框架，可集成微信公众号，短信接口，邮件接口，安全认证，流程引擎等</font></p>
                         </div>
                     </div>
 
@@ -175,7 +174,7 @@
 
                             <h4>UI设计、响应式网站开发</h4>
                             <div class="separator3"></div>
-                            <p>使用HTML5, CSS3, Bootstrap, AmazeUI等 ，可集成微信公众号，一套网站适用于电脑屏幕，平板屏幕和手机屏幕，让用户随心所欲地浏览网站</p>
+                            <p><font size="3">使用HTML5, CSS3, Bootstrap, AmazeUI等 ，可集成微信公众号，一套网站适用于电脑屏幕，平板屏幕和手机屏幕，让用户随心所欲地浏览网站</font></p>
                         </div>
                     </div>
 
@@ -184,9 +183,9 @@
                             <div class="single_feature_icon">
                                 <i class="fa fa-lightbulb-o"></i>
                             </div>
-                            <h4>微信公众号开发</h4>
+                            <h4>软件项目顾问</h4>
                             <div class="separator3"></div>
-                            <p>基于微信公众平台，微信授权登录，微信支付下单，网站内使用微信支付</p>
+                            <p><font size="3">为不懂计算机软件的客户提供详细周到的项目调研，项目报价指导，为客户团队提供详细的项目架构指南，高效完成软件项目</font></p>
                         </div>
                     </div>
 
@@ -195,11 +194,10 @@
                             <div class="single_feature_icon">
                                 <i class="fa fa-comments-o"></i>
                             </div>
-
-                            <h4>软件项目顾问</h4>
+                            <h4>微信公众号开发</h4>
                             <div class="separator3"></div>
-                            <p>为不懂计算机软件的客户提供详细周到的项目调研，项目报价指导，为客户团队提供详细的项目架构指南，帮助客户团队不被忽悠，高效完成软件项目</p>
-                        </div>
+                            <p><font size="3">基于微信公众平台，微信授权登录，微信支付下单，网站内使用微信支付</font></p>
+                           </div>
                     </div>
 
                 </div>
@@ -225,8 +223,8 @@
                             <div class="head_title">
                                 <h2>我们的工作</h2>
                             </div>
-                            <p>为不懂计算机软件的客户提供详细周到的项目调研，项目报价指导，为客户团队提供详细的项目架构指南，帮助客户团队不被忽悠，高效完成软件项目
-                                根据客户的需求快速高效的开发软件，系统所用的开发技术均为市场主流的java和web前端开发技术
+                            <p><font size="3">为不懂计算机软件的客户提供详细周到的项目调研，项目报价指导，为客户团队提供详细的项目架构指南，帮助客户团队不被忽悠，高效完成软件项目
+                                根据客户的需求快速高效的开发软件，系统所用的开发技术均为市场主流的java和web前端开发技术</font>
                             </p>
 
                             <a href="" class="btn btn-lg">浏览我们的工作</a>
@@ -257,7 +255,7 @@
                                         <div class="col-sm-10 col-sm-offset-1 col-xs-9 col-xs-offset-1">
                                             <article class="single_service_right_text">
                                                 <h4>手机APP开发</h4>
-                                                <p>使用React Native, APICloud等低成本高效率地开发可运行于Android和IOS的APP</p>
+                                                <p><font size="3">使用React Native, APICloud等低成本高效率地开发可运行于Android和IOS的APP</font></p>
                                             </article>
                                         </div>
                                         <div class="col-sm-1 col-xs-1">
@@ -274,7 +272,7 @@
                                         <div class="col-sm-10 col-sm-offset-1 col-xs-9 col-xs-offset-1">
                                             <article class="single_service_right_text">
                                                 <h4>计算机软件开发</h4>
-                                                <p>使用Java开发，基于SSH或SSM框架，可集成微信公众号，短信接口，邮件接口，安全认证，流程引擎，社交登录等</p>
+                                                <p><font size="3">使用Java开发，基于SSH或SSM框架，可集成微信公众号，短信接口，邮件接口，安全认证，流程引擎，社交登录等</font></p>
                                             </article>
                                         </div>
                                         <div class="col-sm-1 col-xs-1">
@@ -291,7 +289,7 @@
                                         <div class="col-sm-10 col-sm-offset-1 col-xs-9 col-xs-offset-1 margin-bottom-20">
                                             <article class="single_service_right_text">
                                                 <h4>微信公众号的开发</h4>
-                                                <p>基于微信公众平台，微信授权登录，微信支付下单，网站内使用微信支付</p>
+                                                <p><font size="3">基于微信公众平台，微信授权登录，微信支付下单，网站内使用微信支付</font></p>
                                             </article>
                                         </div>
                                         <div class="col-sm-1 col-xs-1">
@@ -327,29 +325,29 @@
                         <div class="head_title text-center">
                             <h2>最近的作品</h2>
                             <div class="subtitle">
-                                全部基于java技术开发，基于SSH或SSM框架，集成微信公众号，短信接口，邮件接口，安全认证，流程引擎等技术
+                                <font size="3">全部基于java技术开发，基于SSH或SSM框架，集成微信公众号，短信接口，邮件接口，安全认证，流程引擎等技术(成功的项目是我们专业的证明)</font>
                             </div>
                             <div class="separator"></div>
                         </div>
                     </div>
                     <div class="work_menu text-center">
                         <div id="filters" class="toolbar mb2 mt2">
-                            <button class="btn-md fil-cat filter active" data-filter="all">所有</button>
+                            <button class="btn-md fil-cat filter active" data-filter="all"><font size="3">所有</font></button>
                             /
-                            <button class="btn-md fil-cat filter" data-rel="web" data-filter=".web">网页设计</button>
+                            <button class="btn-md fil-cat filter" data-rel="web" data-filter=".web"><font size="3">网页设计</font></button>
                             /
-                            <button class="btn-md fil-cat filter" data-rel="design" data-filter=".design">响应式网站
+                            <button class="btn-md fil-cat filter" data-rel="design" data-filter=".design"><font size="3">响应式网站</font>
                             </button>
                             /
-                            <button class="btn-md fil-cat filter" data-rel="flyers" data-filter=".flyers">计算机软件
+                            <button class="btn-md fil-cat filter" data-rel="flyers" data-filter=".flyers"><font size="3">计算机软件</font>
                             </button>
                             /
-                            <button class="btn-md fil-cat filter" data-rel="bcards" data-filter=".bcards">微信公众号</button>
+                            <button class="btn-md fil-cat filter" data-rel="bcards" data-filter=".bcards"><font size="3">微信公众号</font></button>
                             /
-                            <button class="btn-md fil-cat filter" data-rel="photo" data-filter=".photo">手机APP
+                            <button class="btn-md fil-cat filter" data-rel="photo" data-filter=".photo"><font size="3">手机APP</font>
                             </button>
                             /
-                            <button class="btn-md fil-cat filter" data-rel="video" data-filter=".video">自适应网页</button>
+                            <button class="btn-md fil-cat filter" data-rel="video" data-filter=".video"><font size="3">自适应网页</font></button>
                         </div>
 
                     </div>
@@ -456,7 +454,7 @@
                     <div class="head_title text-center">
                         <h2>案例分析</h2>
                         <div class="subtitle">
-                            IT行业如何正确分析了解客户的需求，并按时的完成开发
+                            <font size="3">IT行业如何正确分析了解客户的需求，并按时的完成开发</font>
                         </div>
                         <div class="separator"></div>
                     </div>
@@ -472,7 +470,7 @@
                                             </div>
                                             <h4>P2P金融管理系统</h4>
                                             <div class="separator3"></div>
-                                            <p>该网站是一款基于网上借款的商业性交易平台，本系统共分为4个子系统。所用到的技术为SSM框架，社交登录，流程引擎，权限认证等</p>
+                                            <p><font size="3">该网站是一款基于网上借款的商业性交易平台，本系统共分为4个子系统。所用到的技术为SSM框架，社交登录，流程引擎，权限认证等</font></p>
 
                                             <a href="" class="btn btn-lg">了解更多</a>
                                         </div>
@@ -482,7 +480,7 @@
                                             </div>
                                             <h4>房地产营销平台</h4>
                                             <div class="separator3"></div>
-                                            <p>该平台是一款基于网上房产中介的一个综合性管理平台，系统分为经销商，经销商员工，用户，管理员四个子系统。使用SSH框架进行编写，运用到了大量的百度地图</p>
+                                            <p><font size="3">该平台是一款基于网上房产中介的一个综合性管理平台，系统分为经销商，经销商员工，用户，管理员四个子系统。使用SSH框架进行编写，运用到了大量的百度地图</font></p>
 
                                             <a href="" class="btn btn-lg">了解更多e</a>
                                         </div>
@@ -492,7 +490,7 @@
                                             </div>
                                             <h4>在线视频教学平台</h4>
                                             <div class="separator3"></div>
-                                            <p>该平台是一款用户网上学习的中小型网站，系统分为讲师，学生，管理员三个系统。老师和学生可以进行实时通信交流，让学生可以更好的在网上学习</p>
+                                            <p><font size="3">该平台是一款用户网上学习的中小型网站，系统分为讲师，学生，管理员三个系统。老师和学生可以进行实时通信交流，让学生可以更好的在网上学习</font></p>
 
                                             <a href="" class="btn btn-lg">了解更多</a>
                                         </div>
@@ -530,7 +528,7 @@
                                         <div class="single_counter_item">
                                             <i class="icon icon-thumbs-up"></i>
                                             <h2 class="statistic-counter">132</h2>
-                                            <h4 class="">客户数量</h4>
+                                            <h4 class=""><font size="3">客户数量</font></h4>
                                         </div>
                                     </div>
                                 </div>
@@ -540,7 +538,7 @@
                                         <div class="single_counter_item">
                                             <i class="icon icon-business-3"></i>
                                             <h2 class="statistic-counter">30</h2>
-                                            <h4 class="">完成作品</h4>
+                                            <h4 class=""><font size="3">完成作品</font></h4>
                                         </div>
                                     </div>
                                 </div>
@@ -550,7 +548,7 @@
                                         <div class="single_counter_item">
                                             <i class="icon icon-people-32"></i>
                                             <h2 class="statistic-counter">618</h2>
-                                            <h4 class="">用户好评</h4>
+                                            <h4 class=""><font size="3">用户好评</font></h4>
                                         </div>
 
                                     </div>
@@ -561,7 +559,7 @@
                                         <div class="single_counter_item">
                                             <i class="icon icon-cup"></i>
                                             <h2 class="statistic-counter">2000</h2>
-                                            <h4 class="">开发时间(小时)</h4>
+                                            <h4 class=""><font size="3">开发时间(小时)</font></h4>
 
                                         </div>
                                     </div>
@@ -582,7 +580,7 @@
                     <div class="head_title text-center">
                         <h2>我们的定价</h2>
                         <div class="subtitle">
-                            专业的团队，专业的价格
+                            <font size="3">专业的团队，专业的价格</font>
                         </div>
                         <div class="separator"></div>
                     </div><!-- End off Head_title -->
@@ -664,7 +662,7 @@
                         <div class="head_title textwhite text-center margin-top-80">
                             <h2>我们的团队</h2>
                             <div class="subtitle">
-                                最牛X的团队，与他们分享你的想法，让想法变成现实
+                                <font size="3">最牛X的团队，与他们分享你的想法，让想法变成现实</font>
                             </div>
                             <div class="separator"></div>
                         </div>
@@ -734,7 +732,7 @@
                         <div class="head_title text-center">
                             <h2>保持联系</h2>
                             <div class="subtitle">
-                                如您有任何的需求可以联系我们
+                                <font size="3">如您有任何的需求可以联系我们</font>
                             </div>
                             <div class="separator"></div>
                         </div>
@@ -870,8 +868,8 @@
                                 <div class="copyright_text">
                                     <center>
                                         <p class=" wow fadeInRight" data-wow-duration="1s">
-                                            <a  style="font: white" href=http://www.miitbeian.gov.cn/">赣ICP备17016660号</a>
-                                            <a href="http://39.106.64.55/"  title="杏花雨的个人主页">杏花雨的个人主页</a>
+                                            <a  style="font: white" href=http://www.miitbeian.gov.cn/"><font size="3" color="white">赣ICP备17016660号-1</font></a>
+                                            <a href="http://39.106.64.55/"  title="小志的个人主页"><font size="3">小志的个人主页</font></a>
                                         </p>
                                     </center>
                                 </div>
