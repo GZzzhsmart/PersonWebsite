@@ -602,9 +602,9 @@
                                     <li>支持手机端和PC端</li>
                                     <li>使用最新开发技术</li>
                                     <li>boostrap，AmazeUI等</li>
-                                    <li>合理增加需求，价格不变</li>
+                                    <li>合理增加需求，价格有所变动</li>
                                 </ul>
-                                <a href="39.106.64.55" class="btn btn-md">请您选择</a>
+                                <a href="39.106.64.55" class="btn btn-md">参考价格</a>
                             </div>
                         </div>
                     </div> <!-- End off col-md-4 -->
@@ -625,7 +625,7 @@
                                     <li>支持微商城开发</li>
                                     <li>合理增加需求，价格有所变动</li>
                                 </ul>
-                                <a href="39.106.64.55" class="btn btn-md">请您选择</a>
+                                <a href="39.106.64.55" class="btn btn-md">参考价格</a>
                             </div>
                         </div>
                     </div> <!-- End off col-md-4 -->
@@ -641,12 +641,12 @@
 
                             <div class="pricing_body">
                                 <ul>
-                                    <li>使用java开发</li>
                                     <li>SSH或SSM框架</li>
                                     <li>流程引擎，权限认证，社交登录</li>
                                     <li>支付接口的实现</li>
+                                    <li>合理增加需求，价格有所变动</li>
                                 </ul>
-                                <a href="39.106.64.55" class="btn btn-md">请您选择</a>
+                                <a href="39.106.64.55" class="btn btn-md">参考价格</a>
                             </div>
                         </div>
                     </div> <!-- End off col-md-4 -->
