@@ -105,8 +105,8 @@
                                         <div class="separator"></div>
                                         <p>专业的团队，专业的开发技术，专业的IT服务商</p>
                                         <div class="home_btn">
-                                            <a href="https://bootstrapthemes.co" class="btn btn-lg m_t_10">现在就开始</a>
-                                            <a href="https://bootstrapthemes.co" class="btn btn-default">了解更多</a>
+                                            <a href="javascript:void(0);" class="btn btn-lg m_t_10">现在就开始</a>
+                                            <a href="javascript:void(0);" class="btn btn-default">了解更多</a>
                                         </div>
 
                                     </div>
@@ -118,8 +118,8 @@
                                         <div class="separator"></div>
                                         <p>专业的团队，专业的开发技术，专业的IT服务商</p>
                                         <div class="home_btn">
-                                            <a href="https://bootstrapthemes.co" class="btn btn-lg m_t_10">现在就开始</a>
-                                            <a href="https://bootstrapthemes.co" class="btn btn-default">了解更多</a>
+                                            <a href="javascript:void(0);" class="btn btn-lg m_t_10">现在就开始</a>
+                                            <a href="javascript:void(0);" class="btn btn-default">了解更多</a>
                                         </div>
 
                                     </div>
@@ -131,8 +131,8 @@
                                         <div class="separator"></div>
                                         <p>专业的团队，专业的开发技术，专业的IT服务商</p>
                                         <div class="home_btn">
-                                            <a href="https://bootstrapthemes.co" class="btn btn-lg m_t_10">现在就开始</a>
-                                            <a href="https://bootstrapthemes.co" class="btn btn-default">了解更多</a>
+                                            <a href="javascript:void(0);" class="btn btn-lg m_t_10">现在就开始</a>
+                                            <a href="javascript:void(0);" class="btn btn-default">了解更多</a>
                                         </div>
 
                                     </div>
