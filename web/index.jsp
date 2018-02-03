@@ -7,17 +7,13 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>程序员小志</title>
+    <title>高级软件工程师小曾</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
-
-    <!--Google Fonts link-->
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i"
           rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,600i,700,700i" rel="stylesheet">
-
-
     <link rel="stylesheet" href="assets/css/iconfont.css">
     <link rel="stylesheet" href="assets/css/slick/slick.css">
     <link rel="stylesheet" href="assets/css/slick/slick-theme.css">
@@ -26,12 +22,8 @@
     <link rel="stylesheet" href="assets/css/bootstrap.css">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <!--        <link rel="stylesheet" href="assets/css/bootstrap-theme.min.css">-->
-    <!--For Plugins external css-->
     <link rel="stylesheet" href="assets/css/plugins.css"/>
-    <!--Theme custom css -->
     <link rel="stylesheet" href="assets/css/style.css">
-    <!--Theme Responsive css-->
     <link rel="stylesheet" href="assets/css/responsive.css"/>
     <script src="assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
 </head>
@@ -48,7 +40,6 @@
                     <div class="nave_menu">
                         <nav class="navbar navbar-default">
                             <div class="container-fluid">
-                                <!-- Brand and toggle get grouped for better mobile display -->
                                 <div class="navbar-header">
                                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
                                             data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
@@ -61,10 +52,6 @@
                                         <img src="assets/images/logo.png"/>
                                     </a>
                                 </div>
-
-                                <!-- Collect the nav links, forms, and other content for toggling -->
-
-
                                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
                                     <ul class="nav navbar-nav navbar-right">
@@ -101,7 +88,7 @@
                                 <div class="single_home_slider">
                                     <div class="main_home wow fadeInUp" data-wow-duration="700ms">
                                         <h3>客户是至高无上的</h3>
-                                        <h1>欢迎来到小志的主页</h1>
+                                        <h1>欢迎来到小曾的主页</h1>
                                         <div class="separator"></div>
                                         <p>专业的团队，专业的开发技术，专业的IT服务商</p>
                                         <div class="home_btn">
@@ -114,7 +101,7 @@
                                 <div class="single_home_slider">
                                     <div class="main_home wow fadeInUp" data-wow-duration="700ms">
                                         <h3>客户是至高无上的</h3>
-                                        <h1>欢迎来到小志的主页</h1>
+                                        <h1>欢迎来到小曾的主页</h1>
                                         <div class="separator"></div>
                                         <p>专业的团队，专业的开发技术，专业的IT服务商</p>
                                         <div class="home_btn">
@@ -126,7 +113,7 @@
                                 <div class="single_home_slider">
                                     <div class="main_home wow fadeInUp" data-wow-duration="700ms">
                                         <h3>客户是至高无上的</h3>
-                                        <h1>欢迎来到小志的主页</h1>
+                                        <h1>欢迎来到小曾的主页</h1>
                                         <div class="separator"></div>
                                         <p>专业的团队，专业的开发技术，专业的IT服务商</p>
                                         <div class="home_btn">
@@ -255,7 +242,7 @@
                                         <div class="col-sm-10 col-sm-offset-1 col-xs-9 col-xs-offset-1">
                                             <article class="single_service_right_text">
                                                 <h4>手机APP开发</h4>
-                                                <p><font size="3">使用React Native, APICloud等低成本高效率地开发可运行于Android和IOS的APP</font></p>
+                                                <p><font size="3">使用React Native,Vue.js, APICloud等低成本高效率地开发可运行于Android和IOS的APP</font></p>
                                             </article>
                                         </div>
                                         <div class="col-sm-1 col-xs-1">
@@ -375,21 +362,21 @@
                             </a>
                         </div>
                         <div class="single_portfolio tile scale-anm web video">
-                            <img src="assets/images/jiaju1.jpg" alt=""/>
-                            <a href="assets/images/jiaju1.jpg" class="portfolio-img">
+                            <img src="assets/images/p2p_2.png" alt=""/>
+                            <a href="assets/images/p2p_2.png" class="portfolio-img">
                                 <div class="grid_item_overlay">
                                     <div class="separator4"></div>
-                                    <h3>乐家具项目</h3>
-                                    <p>基于javaweb技术开发</p>
+                                    <h3>P2P金融理财系统</h3>
+                                    <p>使用bootstrap和layUI</p>
                                 </div>
                             </a>
                         </div>
                         <div class="single_portfolio tile scale-anm web photo">
-                            <img src="assets/images/jiaju2.jpg" alt=""/>
-                            <a href="assets/images/jiaju2.jpg" class="portfolio-img">
+                            <img src="assets/images/p2p_1.png" alt=""/>
+                            <a href="assets/images/p2p_1.png" class="portfolio-img">
                                 <div class="grid_item_overlay">
                                     <div class="separator4"></div>
-                                    <h3>乐家具项目</h3>
+                                    <h3>P2P管理员中心</h3>
                                     <p>bootstrap</p>
                                 </div>
                             </a>
@@ -470,7 +457,7 @@
                                             </div>
                                             <h4>P2P金融管理系统</h4>
                                             <div class="separator3"></div>
-                                            <p><font size="3">该网站是一款基于网上借款的商业性交易平台，本系统共分为4个子系统。所用到的技术为SSM框架，社交登录，流程引擎，权限认证等</font></p>
+                                            <p><font size="3">该网站是一款基于网上借款的商业性交易平台，本系统共有4个角色。所用到的技术为SSM框架，社交登录，流程引擎，权限认证等</font></p>
 
                                             <a href="" class="btn btn-lg">了解更多</a>
                                         </div>
@@ -482,7 +469,7 @@
                                             <div class="separator3"></div>
                                             <p><font size="3">该平台是一款基于网上房产中介的一个综合性管理平台，系统分为经销商，经销商员工，用户，管理员四个子系统。使用SSH框架进行编写，运用到了大量的百度地图</font></p>
 
-                                            <a href="" class="btn btn-lg">了解更多e</a>
+                                            <a href="zengzhihu.top/SaleHome/" class="btn btn-lg">了解更多</a>
                                         </div>
                                         <div class="item">
                                             <div class="s_study_icon">
@@ -599,7 +586,7 @@
                                 <ul>
                                     <li>支持手机端和PC端</li>
                                     <li>使用最新开发技术</li>
-                                    <li>boostrap，AmazeUI等</li>
+                                    <li>boostrap，layUI等</li>
                                     <li>合理增加需求，价格有所变动</li>
                                 </ul>
                                 <a href="39.106.64.55" class="btn btn-md">参考价格</a>
@@ -869,7 +856,7 @@
                                     <center>
                                         <p class=" wow fadeInRight" data-wow-duration="1s">
                                             <a  style="font: white" href=http://www.miitbeian.gov.cn/"><font size="3" color="white">赣ICP备17016660号-1</font></a>
-                                            <a href="http://39.106.64.55/"  title="小志的个人主页"><font size="3">小志的个人主页</font></a>
+                                            <a href="zengzhihu.top"  title="小曾的个人主页"><font size="3">小曾的个人主页</font></a>
                                         </p>
                                     </center>
                                 </div>
@@ -890,7 +877,6 @@
 
 <script src="assets/js/vendor/jquery-1.11.2.min.js"></script>
 <script src="assets/js/vendor/bootstrap.min.js"></script>
-<script src="assets/js/qq.js"></script>
 <script src="assets/js/jquery.magnific-popup.js"></script>
 <script src="assets/js/jquery.mixitup.min.js"></script>
 <script src="assets/js/jquery.easing.1.3.js"></script>
