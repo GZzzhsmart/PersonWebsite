@@ -469,7 +469,7 @@
                                             <div class="separator3"></div>
                                             <p><font size="3">该平台是一款基于网上房产中介的一个综合性管理平台，系统分为经销商，经销商员工，用户，管理员四个子系统。使用SSH框架进行编写，运用到了大量的百度地图</font></p>
 
-                                            <a href="zengzhihu.top/SaleHome/" class="btn btn-lg">了解更多</a>
+                                            <a href="SaleHome/" class="btn btn-lg">了解更多</a>
                                         </div>
                                         <div class="item">
                                             <div class="s_study_icon">
